@@ -1,9 +1,14 @@
 from fastapi import FastAPI, HTTPException,Header,Body
 from fastapi.middleware.cors import CORSMiddleware
 import functions    
-from pydantic import BaseModel
+from pydantic import BaseModel,Field
 
 app = FastAPI()
+
+class ExpenseCreate(BaseModel):
+    title: str = Field(min_length=1)
+    amount: float = Field(gt=0)
+    category: str = Field(min_length=1)
 
 
 @app.post("/login")
