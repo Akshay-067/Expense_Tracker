@@ -107,18 +107,22 @@ Add the following screenshots:
 
 1. Registration page
 
-3. Login page
+3. Login page<img width="1600" height="899" alt="WhatsApp Image 2026-11-23 at 4 25 18 PM" src="https://github.com/user-attachments/assets/59b7e99d-578e-4840-91b7-7a786293567c" />
 
-5. Expense dashboard
 
-6. Error message
+5. Expense dashboard<img width="1658" height="362" alt="image" src="https://github.com/user-attachments/assets/0b87ab9a-30e0-41f1-be53-8aecf75f73ac" />
 
-8. Working API endpoint in `/docs`
 
-10. Successful GitHub Actions run
+6. Error message<img width="1735" height="152" alt="image" src="https://github.com/user-attachments/assets/d0d70e29-13f4-45a5-90b2-c1a6ffa000e1" />
+
+
+8. Working API endpoint in `/docs`<img width="1847" height="652" alt="image" src="https://github.com/user-attachments/assets/ebaf55b1-359b-4def-afd0-44937e73edca" />
+
+
+10. Successful GitHub Actions run<img width="1280" height="659" alt="WhatsApp Image 2026-11-23 at 4 34 57 PM" src="https://github.com/user-attachments/assets/52e1564a-99d2-49b0-a43b-3123a72d054f" />
+
 
 ## 7. Known Issues
 
-- [Mention any issues in the application.]
-- [Mention features that need improvement.]
+
 
